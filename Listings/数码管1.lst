@@ -1,0 +1,25 @@
+C51 COMPILER V9.56.0.0   ______1                                                           12/10/2017 21:20:35 PAGE 1   
+
+
+C51 COMPILER V9.56.0.0, COMPILATION OF MODULE ______1
+OBJECT MODULE PLACED IN .\Objects\ÊýÂë¹Ü1.obj
+COMPILER INVOKED BY: D:\µ¥Æ¬»ú¿ª·¢¹¤¾ß\keil\C51\BIN\C51.EXE ÊýÂë¹Ü1.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(
+                    -.\Listings\ÊýÂë¹Ü1.lst) TABS(2) OBJECT(.\Objects\ÊýÂë¹Ü1.obj)
+
+line level    source
+
+*** WARNING C276 IN LINE 53 OF ÊÂë¹Ü1.c: constant in condition expression
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =   1503    ----
+   CONSTANT SIZE    =     24    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =     26       4
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =      1    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  0 ERROR(S)

@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\带闹钟功能与整点提示功能的数码管时钟.obj" 
+TO ".\Objects\数码管1" 
+PRINT(".\Listings\数码管1.m51")

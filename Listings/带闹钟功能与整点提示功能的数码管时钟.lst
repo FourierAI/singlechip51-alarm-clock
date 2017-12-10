@@ -1,0 +1,26 @@
+C51 COMPILER V9.56.0.0   ____________________________________                              12/10/2017 21:27:56 PAGE 1   
+
+
+C51 COMPILER V9.56.0.0, COMPILATION OF MODULE ____________________________________
+OBJECT MODULE PLACED IN .\Objects\´øÄÖÖÓ¹¦ÄÜÓëÕûµãÌáÊ¾¹¦ÄÜµÄÊýÂë¹ÜÊ±ÖÓ.obj
+COMPILER INVOKED BY: D:\µ¥Æ¬»ú¿ª·¢¹¤¾ß\keil\C51\BIN\C51.EXE ´øÄÖÖÓ¹¦ÄÜÓëÕûµãÌáÊ¾¹¦ÄÜµÄÊýÂë¹ÜÊ±ÖÓ.c OPTIMIZE(8,SPEED) BRO
+                    -WSE DEBUG OBJECTEXTEND PRINT(.\Listings\´øÄÖÖÓ¹¦ÄÜÓëÕûµãÌáÊ¾¹¦ÄÜµÄÊýÂë¹ÜÊ±ÖÓ.lst) TABS(2) OBJECT(.\Objects\´øÄÖÖÓ¹¦ÄÜÓëÕ
+                    -ûµãÌáÊ¾¹¦ÄÜµÄÊýÂë¹ÜÊ±ÖÓ.obj)
+
+line level    source
+
+*** WARNING C276 IN LINE 53 OF ´øÄÖÖÓ¹¦ÄÜÓëÕûµãÌáÊ¾¹¦ÄÜµÄÊÂë¹ÜÊ±ÖÓ.c: constant in condition expression
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =   1503    ----
+   CONSTANT SIZE    =     24    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =     26       4
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =      1    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  0 ERROR(S)
