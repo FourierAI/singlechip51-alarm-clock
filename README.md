@@ -9,5 +9,5 @@
 ![STC89C51单片机引脚图](https://github.com/MrYezhipeng/singlechip51-alarm-clock/blob/master/pictures/2.png)
 ![独立按键](https://github.com/MrYezhipeng/singlechip51-alarm-clock/blob/master/pictures/5.png)
 ![电子钟总体方案框图](https://github.com/MrYezhipeng/singlechip51-alarm-clock/blob/master/pictures/4.png)
-![电源与USB下载](https://github.com/MrYezhipeng/singlechip51-alarm-clock/blob/master/pictures/%3.png)
+![电源与USB下载](https://github.com/MrYezhipeng/singlechip51-alarm-clock/blob/master/pictures/3.png)
 ![蜂鸣器](https://github.com/MrYezhipeng/singlechip51-alarm-clock/blob/master/pictures/6.png)
